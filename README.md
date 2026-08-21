@@ -1,5 +1,7 @@
 # Vela-Hardware
 
+## Overview
+
 ## Project Summary
 
 Vela-Hardware is reserved for Vela hardware-specific assets and integration
